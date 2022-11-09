@@ -1,5 +1,5 @@
 # Classification
-For full Power Point presentation, click [here]()
+For full Power Point presentation, click [here.](https://github.com/riwasabri/Classification/blob/master/Classification%20-%20Presentation.pdf)
 ## **Design**
 
 The goal of this project is to build a classification model for identifying evergreen vs
