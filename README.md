@@ -1,4 +1,4 @@
-# Classification
+# How can StumbleUpon avoid surfacing stale content?
 For full Power Point presentation, click [here.](https://github.com/riwasabri/Classification/blob/master/Classification%20-%20Presentation.pdf)
 ## **Design**
 
